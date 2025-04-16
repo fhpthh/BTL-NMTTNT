@@ -1,21 +1,23 @@
-Tiêu đề,Giá,Diện tích,Vị trí,Phòng
-"Chính chủ bán nhà 4 tầng thôn Sen Trì, Bình Yên ở ngay, đẹp không tì vết","4,5 tỷ","92,2 m²","Bình Yên, Thạch Thất",N/A
-"Bán nhà thôn Minh Nghĩa, xã Đại Đồng, Thạch Thất, HN. DT 207m2, giá đầu tư","3,62 tỷ",207 m²,"Đại Đồng, Thạch Thất",1
-"Bán đất, tặng nhà 4 tầng 6 phòng sát công nghệ cao Hòa Lạc!",Giá thỏa thuận,91 m²,"Bình Yên, Thạch Thất",N/A
-"Bán nhà riêng có dãy nhà trọ thu nhập ổn định, nhỉnh 10 tỷ huyện Thạch Thất",11 tỷ,190 m²,"Tân Xã, Thạch Thất",N/A
-Cần bán căn nhà 4 tầng diện tích 92.2m chỉ 4.2 tỷ tại khu CNC Hoà Lạc,"4,2 tỷ","92,2 m²","Bình Yên, Thạch Thất",N/A
-"Bán nhà riêng tại Xã Cần Kiệm, Thạch Thất, Hà Nội, giá ưu đãi 2,6 tỷ, 62,4 m2","2,6 tỷ","62,4 m²","Cần Kiệm, Thạch Thất",N/A
-Chính chủ gửi bán toà chung cư mini siêu đẹp lõi khu công nghệ cao Hoà Lạc,15 tỷ,100 m²,"Thạch Hòa, Thạch Thất",23
-Bán nhà trọ SĐCC mặt đường lô góc 100m2 full thổ cư cho sv FPT thuê 91 Kim Bông Tân Xã CNC Hòa Lạc,"4,95 tỷ",100 m²,"Tân Xã, Thạch Thất",6
-"Cần bán lô đất + nhà 3 tầng mới đẹp thôn 8, Tân Xã, Thạch Thất",4 tỷ,"73,5 m²","Tân Xã, Thạch Thất",N/A
-"Nhà riêng bán tại Xã Tân Xã, Thạch Thất, Hà Nội, 4,3 tỷ, 73,5m2, view đẹp hàng hiếm","4,3 tỷ","73,5 m²","Tân Xã, Thạch Thất",N/A
-"Chuyển công tác gia đình bán gấp nhà 2 tầng mặt tiền đường thông liên xã, 2 ô tô tránh chỉ 2 tỷ 650","2,65 tỷ","62,4 m²","Cần Kiệm, Thạch Thất",3
-"Chính chủ bán nhà riêng tại Bình Yên, Thạch Thất, 1299m²x 3 tầng, 51 phòng, gần ĐH FPT, giá 31 tỷ",31 tỷ,1.299 m²,"Bình Yên, Thạch Thất",N/A
-"Gấp, bán nhà riêng đường 420, Thạch Thất, 20tr, 151m2 hà nội","3,02 tỷ",151 m²,"Bình Yên, Thạch Thất",N/A
-"Bán BT đẹp, nhiều tiện ích tại Bình Yên, 4,2 tỷ, 92,2 m2","4,2 tỷ","92,2 m²","Bình Yên, Thạch Thất",N/A
-"Chính chủ bán nhà đẹp tại Hạ Bằng, Thạch Thất, Hà Nội, 2,5 tỷ, 68m2","2,5 tỷ",68 m²,"Hạ Bằng, Thạch Thất",N/A
-"Bán đất sẵn tòa 4 tầng tại Hạ Bằng, 2,5 tỷ, 68m2, đẹp xuất sắc, nhiều tiện ích","2,5 tỷ",68 m²,"Hạ Bằng, Thạch Thất",N/A
-"Bán đất tặng nhà 4 tầng 6 phòng ngủ, sát công nghệ cao Hòa Lạc!","4,3 tỷ",91 m²,"Bình Yên, Thạch Thất",6
-"Bán nhà mới tinh 4 tầng 100m2, ngay trục chính kinh doanh của xã, thiết kế đẹp, có thang máy","7,5 tỷ",92 m²,"Tân Xã, Thạch Thất",N/A
-Cần bán CCMN sẵn dòng tiền hơn 30 triệu / tại Hoà Lạc. Giá đầu tư chỉ hơn 7 tỷ,Giá thỏa thuận,80 m²,"Tân Xã, Thạch Thất",17
-"Cần bán lô đất mặt đường ĐLTL, gần cổng chính ĐHQG hà nội, gần Xanhvillas. Sẵn nhà 2 tầng. Lô góc",Giá thỏa thuận,260 m²,"Tiến Xuân, Thạch Thất",4
+Giá,Diện tích,Vị trí,Phòng
+"3,62 tỷ",207 m²,"Đại Đồng, Thạch Thất",1
+31 tỷ,1.299 m²,"Bình Yên, Thạch Thất",N/A
+Giá thỏa thuận,260 m²,"Tiến Xuân, Thạch Thất",4
+"4,3 tỷ","73,5 m²","Tân Xã, Thạch Thất",N/A
+"4,3 tỷ","·73,5 m²","Tân Xã, Thạch Thất",N/A
+"36,5 tỷ",156 m²,"Tây Hồ, Hà Nội",5
+"2,6 tỷ","62,4 m²","Cần Kiệm, Thạch Thất",N/A
+Giá thỏa thuận,106 m²,"Tân Xã, Thạch Thất",4
+150 tỷ,400 m²,"Đống Đa, Hà Nội",N/A
+30 tỷ,300 m²,"Tân Xã, Thạch Thất",63
+"7,5 tỷ",92 m²,"Tân Xã, Thạch Thất",N/A
+"3,02 tỷ",151 m²,"Bình Yên, Thạch Thất",N/A
+"6,23 tỷ",577 m²,"Yên Bình, Thạch Thất",N/A
+11 tỷ,190 m²,"Tân Xã, Thạch Thất",N/A
+"2,5 tỷ",68 m²,"Hạ Bằng, Thạch Thất",N/A
+"4,2 tỷ","92,2 m²","Bình Yên, Thạch Thất",N/A
+4 tỷ,"73,5 m²","Tân Xã, Thạch Thất",N/A
+Giá thỏa thuận,80 m²,"Tân Xã, Thạch Thất",17
+"4,5 tỷ","92,2 m²","Bình Yên, Thạch Thất",N/A
+9 tỷ,"359,1 m²","Tiến Xuân, Thạch Thất",4
+"4,95 tỷ",100 m²,"Tân Xã, Thạch Thất",6
+24 tỷ,229 m²,"Tân Xã, Thạch Thất",52

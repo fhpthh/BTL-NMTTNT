@@ -1,21 +1,27 @@
-Tiêu đề,Giá,Diện tích,Vị trí,Phòng
-Ngõ phân lô - vỉa hè - view hồ điều hoà - thông số vàng - toà nhà văn phòng 106m2 8tầng 1hầm. MT 9m,43 tỷ,106 m²,"Thượng Đình, Thanh Xuân",5
-"Bán nhà Nguyễn Tuân, Thanh Xuân: 27m2*4T chỉ nhỉnh 5 tỷ ô tô, khu phân lô ở sướng, ngay trường học","5,7 tỷ",27 m²,"Khương Trung, Thanh Xuân",3
-"11 TỶ HƠN GARA ÔTÔ ĐỖ, VIEW HỒ HẠ ĐÌNH, NHÀ MỚI SIÊU ĐẸP SIÊU HIẾM QUẬN THANH XUÂN HÀ NỘI.","11,15 triệu",50 m²,"Hạ Đình, Thanh Xuân",4
-"Bán nhà Quan Nhân, Thanh Xuân - ngõ thông kinh doanh - ô tô tránh - view hồ gần gủi khu gửi xe ô tô","12,2 tỷ",46 m²,"Nhân Chính, Thanh Xuân",N/A
-Phố Lê Trọng Tấn LÂN LÔ QUÂN ĐỘI - Ô TÔ ĐỖ CỬA - VÀI BƯỚC CHÂN RA Ô TÔ TRÁNH - KHU VIP THANH XUÂN,"12,7 tỷ",50 m²,"Khương Mai, Thanh Xuân",5
-"Siêu phẩm 40m2, 6T thang máy, gần ô tô tránh, sát Royal City, Khương Đình (cam kết nhà thật giá)","8,85 tỷ",40 m²,"Hạ Đình, Thanh Xuân",4
-"Chuẩn! Bán nhà Vương Thừa Vũ, 46m2, 7 tỷ, nhà rộng, đẹp, ngõ thông, dân xây chắc chắn",7 tỷ,46 m²,"Khương Trung, Thanh Xuân",4
-"Hoàng Đạo Thuý, Thanh Xuân- ngõ thông- ô tô vào tận cửa- tiện kinh doanh- SĐCC- 75,7m2 - hơn 13 tỷ","13,85 tỷ","75,7 m²","Nhân Chính, Thanh Xuân",N/A
-BÁN NHÀ HOÀNG ĐẠO THÀNH - THANH XUÂN - Ô TÔ ĐỖ CỔNG - 2 MẶT NGÕ - THOÁNG ĐẸP - Ở NGAY,"11,2 tỷ",50 m²,"Khương Đình, Thanh Xuân",5
-"Bán nhà lô góc phố Quan Nhân MT 5,3m, cách mặt phố chỉ 10m, vị trí trung tâm Thanh Xuân-0942 724 ***","12,65 tỷ",43 m²,"Nhân Chính, Thanh Xuân",N/A
-Hoàng Đạo Thành giá cực hấp dẫn. Ô tô tránh diện tích 41m2 x 6 tầng thang máy. Giá 12 tỷ hơn,"12,7 tỷ",41 m²,"Hạ Đình, Thanh Xuân",6
-BÁN NHÀ THANH XUÂN - 55M2 - 5 TẦNG - MT 5M - 12.X TỶ - OTO VAO TẬN CỬA,"12,8 tỷ",55 m²,"Thượng Đình, Thanh Xuân",4
-"Lê Văn Thiêm - phân lô - vài bước ra phố - ôtô 7 chỗ vào nhà - nhà đẹp ở luôn, 2 thoáng trước sau",Giá thỏa thuận,"50,4 m²","Nhân Chính, Thanh Xuân",5
-"Bán nhà riêng 149 Nguyễn Tuân, Thanh Xuân, Hà Nội, 48 m2x4 tầng",20 tỷ,48 m²,"Thanh Xuân Trung, Thanh Xuân",N/A
-"Bán nhà phân lô cách mặt phố Nguyễn Thị Định 20m, DT 60m2*5T MT 3,55m, hướng TB, đường ô tô tránh","21,5 tỷ",60 m²,"Nhân Chính, Thanh Xuân",5
-"MỚI KOONG - HIẾM ! BÁN NHÀ VƯƠNG THỪA VŨ PHÂN LÔ QĐ 45M2, 16,7 TỶ, 5 TÂNG, THANG MÁY - KINH DOANH","16,7 tỷ",45 m²,"Khương Mai, Thanh Xuân",4
-chính chủ cần bán gấp nhà phân lô 6 tầng thang máy ô tô vào nhà Bùi Xương Trạch - Thanh xuân.,16 tỷ,48 m²,"Khương Đình, Thanh Xuân",3
-"Bán nhà Phố Hoàng Đạo Thành - Ô tô đỗ cửa 6 tầng - giá chỉ 11,2 tỷ - nhà có sân vườn 2 mặt ngõ","11,2 tỷ",84 m²,"Khương Đình, Thanh Xuân",5
-"Bán nhà 109 Quan Nhân, sổ đỏ, nhà đẹp, nhà thông các ngõ giá hợp lí nhất thị trường","6,8 tỷ",38 m²,"Nhân Chính, Thanh Xuân",4
-"Sổ đỏ. Phân lô cán bộ. Tố Hữu - Thanh Xuân. 4T. MT 4,6m. Gần công viên. Không QH. Đường 2 ôtô tránh","18,5 tỷ",118 m²,"Nhân Chính, Thanh Xuân",5
+Giá,Diện tích,Vị trí,Phòng
+Giá thỏa thuận,"50,4 m²","Nhân Chính, Thanh Xuân",5
+"12,7 tỷ",41 m²,"Hạ Đình, Thanh Xuân",6
+"12,65 tỷ",43 m²,"Nhân Chính, Thanh Xuân",N/A
+"11,2 tỷ",84 m²,"Khương Đình, Thanh Xuân",5
+"13,85 tỷ","75,7 m²","Nhân Chính, Thanh Xuân",N/A
+,,,N/A
+"12,8 tỷ",55 m²,"Thượng Đình, Thanh Xuân",4
+"6,6 tỷ",·30 m²,"Nhân Chính, Thanh Xuân",N/A
+"8,85 tỷ",40 m²,"Hạ Đình, Thanh Xuân",4
+16 tỷ,48 m²,"Khương Đình, Thanh Xuân",3
+"10,7 tỷ","50,5 m²","Thanh Xuân, Hà Nội",5
+"11,15 triệu",50 m²,"Hạ Đình, Thanh Xuân",4
+"5,7 tỷ",27 m²,"Khương Trung, Thanh Xuân",3
+7 tỷ,46 m²,"Khương Trung, Thanh Xuân",4
+"11,2 tỷ",50 m²,"Khương Đình, Thanh Xuân",5
+"21,5 tỷ",60 m²,"Nhân Chính, Thanh Xuân",5
+"12,7 tỷ",50 m²,"Khương Mai, Thanh Xuân",5
+"12,5 tỷ",·52 m²,"Khương Mai, Thanh Xuân",N/A
+"6,8 tỷ",38 m²,"Nhân Chính, Thanh Xuân",4
+"12,2 tỷ",46 m²,"Nhân Chính, Thanh Xuân",N/A
+20 tỷ,48 m²,"Thanh Xuân Trung, Thanh Xuân",N/A
+"18,5 tỷ",118 m²,"Nhân Chính, Thanh Xuân",5
+"18,4 tỷ",·48 m²,"Khương Mai, Thanh Xuân",N/A
+43 tỷ,106 m²,"Thượng Đình, Thanh Xuân",5
+"8,7 tỷ",54 m²,"Hà Đông, Hà Nội",1
+"16,7 tỷ",45 m²,"Khương Mai, Thanh Xuân",4

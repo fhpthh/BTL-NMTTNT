@@ -1,21 +1,23 @@
-Tiêu đề,Giá,Diện tích,Vị trí,Phòng
-"Bán nhà riêng tại xã Minh Cường, 2,3 tỷ vnd, 105 m2, chính chủ, giá cực chất","2,3 tỷ",105 m²,"Minh Cường, Thường Tín",1
-Bán 160m2 nhà và đất ở thôn Bằng Sở Thường Tín Hà Nội,"2,72 tỷ",160 m²,"Ninh Sở, Thường Tín",2
-"Bán nhà 2 tầng Thư Dương, Chương Dương, Thường Tín, Hà Nội, giá siêu hời 35,5 triệu / m2, 90m2","3,2 tỷ",90 m²,"Chương Dương, Thường Tín",N/A
-Chính chủ gửi bán nhà 3 tầng tặng full nội thất chỉ vc xách vali đến ở tiện ích ngập tràn,"3,5 tỷ",45 m²,"Vân Tảo, Thường Tín",4
-"Bán NR siêu hot tại đường Quán Gánh, Thường Tín, Hà Nội, 4,19 tỷ, 40m2","4,19 tỷ",40 m²,"Nhị Khê, Thường Tín",5
-"Bán nhà riêng 4PN, 4WC, 68m2 tại thị trấn Thường Tín, Thường Tín, Hà Nội, giá tốt","7,1 tỷ",68 m²,"Thường Tín, Thường Tín",4
-"Bán nhà đất, KĐT Hacomland phân lô khu Thủy Lợi - xã Duyên Thái, ngõ 2 ôtô tránh, 120m2, MT 9m",Giá thỏa thuận,120 m²,"Duyên Thái, Thường Tín",4
-"Bán nhà Nhị Khê, Thường Tín, HN 42m2 x 4 tầng, ô tô đỗ cửa, 100m QL 1A, 2km Văn Điển, giá 4,19 tỷ","4,19 tỷ",42 m²,"Nhị Khê, Thường Tín",4
-"Bán gấp NR 40m2, 5PN, 3WC tại Quán Gánh, Nhị Khê, Thường Tín, Hà Nội, 4,19 tỷ","4,19 tỷ",40 m²,"Nhị Khê, Thường Tín",5
-"Bán đất có nhà tại Xã Vân Tảo, Thường Tín, Hà Nội, giá 55 triệu / m2, 226.1m2","12,44 tỷ","226,1 m²","Vân Tảo, Thường Tín",N/A
-"Bán LK trục chính KĐT Hacomland Thủy Lợi 1, xã Duyên Thái, đường 10m + vỉa hè, 103m2 giá 12 tỷ",12 tỷ,103 m²,"Duyên Thái, Thường Tín",N/A
-"Bán NR tại Chương Dương, 42,5 triệu/m2, 40 m2, 2PN, 1WC","1,7 tỷ",40 m²,"Chương Dương, Thường Tín",2
-Chính chủ cần bán nhà mái thái mới Tô Hiệu Thường Tín Hà Nội,"3,73 tỷ",131 m²,"Tô Hiệu, Thường Tín",2
-"Bán nhà riêng 2 tầng lô góc tại Tân Minh, Thường Tín, Hà Nội, 5,9 tỷ, 106m2, giá siêu hời","5,9 tỷ",106 m²,"Tân Minh, Thường Tín",N/A
-"Nhà 40m2*4T mới, 2 mặt thoáng, ô tô sát nhà ngay cầu Quán Gánh, QL1A. SĐCC","4,19 tỷ",40 m²,"Nhị Khê, Thường Tín",5
-"Siêu phẩm duy nhất tại 427 Liên Phương - 1,4 tỷ, - 26m2 - 3 tầng","1,4 tỷ",26 m²,"Liên Phương, Thường Tín",3
-"Bán nhà 45m2, nhà thiết kế mới - hiện đại, tại Mỹ Thái, Duyên Thái, Thường Tín, Hà Nội",Giá thỏa thuận,45 m²,"Duyên Thái, Thường Tín",N/A
-"Bán nhà 2,5Tx59m2 - Thị trấn Thường Tín - khu phân lô - ô tô đỗ cửa - kinh doanh đỉnh - giá 5.xx tỷ","5,95 tỷ",59 m²,"Thường Tín, Thường Tín",3
-"Bán nhà 113.7m2 ngõ 3 Cầu Dừa, huyện Thường Tín, Hà Nội",Giá thỏa thuận,"113,7 m²","Văn Bình, Thường Tín",1
-"Chính chủ cần bán nhanh nhà ở tiểu khu Nguyễn Du, 82m2 x 5 tầng mới thang máy, 2 mặt đường. 14,5 tỷ","14,5 tỷ",82 m²,"Thường Tín, Thường Tín",6
+Giá,Diện tích,Vị trí,Phòng
+"5,6 tỷ","86,6 m²","Nhị Khê, Thường Tín",N/A
+"1,97 tỷ",55 m²,"Chương Dương, Thường Tín",N/A
+"36,5 tỷ",156 m²,"Tây Hồ, Hà Nội",5
+"14,5 tỷ",82 m²,"Thường Tín, Thường Tín",6
+150 tỷ,400 m²,"Đống Đa, Hà Nội",N/A
+"4,1 tỷ",42 m²,"Nhị Khê, Thường Tín",4
+"2,72 tỷ",160 m²,"Ninh Sở, Thường Tín",2
+"3,3 tỷ",90 m²,"Chương Dương, Thường Tín",N/A
+"8,2 tỷ",132 m²,"Ninh Sở, Thường Tín",N/A
+"4,3 tỷ","43,3 m²","Duyên Thái, Thường Tín",N/A
+8 tỷ,180 m²,"Thường Tín, Thường Tín",2
+"4,99 tỷ","52,5 m²","Nhị Khê, Thường Tín",2
+"2,8 tỷ",60 m²,"Chương Dương, Thường Tín",N/A
+"7,1 tỷ",68 m²,"Thường Tín, Thường Tín",4
+Giá thỏa thuận,120 m²,"Duyên Thái, Thường Tín",4
+"6,1 tỷ",60 m²,"Duyên Thái, Thường Tín",4
+"5,5 tỷ",44 m²,"Nhị Khê, Thường Tín",5
+"12,44 tỷ","226,1 m²","Vân Tảo, Thường Tín",N/A
+"7,74 tỷ",180 m²,"Văn Bình, Thường Tín",N/A
+"7,8 tỷ",180 m²,"Văn Bình, Thường Tín",1
+"6,2 tỷ",91 m²,"Ninh Sở, Thường Tín",8
+12 tỷ,103 m²,"Duyên Thái, Thường Tín",N/A
